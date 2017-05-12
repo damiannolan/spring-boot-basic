@@ -49,3 +49,4 @@ overridedb.*
 .factorypath
 dump.rdb
 transaction-logs
+.mvn
